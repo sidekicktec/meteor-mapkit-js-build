@@ -1,0 +1,1 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400&display=swap");:root{--text:#000;--bg:#fff}body,html{font-family:Fira Code;margin:0;font-family:Courier;background-color:var(--bg);color:var(--text)}@media (prefers-color-scheme:dark){:root{--text:#fff;--bg:#222}}

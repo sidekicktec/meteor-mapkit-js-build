@@ -1,0 +1,35 @@
+{
+  "format": "site-archive-pre1",
+  "builtBy": "Meteor METEOR@2.10.0",
+  "programs": [
+    {
+      "name": "web.browser",
+      "arch": "web.browser",
+      "path": "programs/web.browser/program.json"
+    },
+    {
+      "name": "web.browser.legacy",
+      "arch": "web.browser.legacy",
+      "path": "programs/web.browser.legacy/program.json"
+    },
+    {
+      "name": "web.cordova",
+      "arch": "web.cordova",
+      "path": "programs/web.cordova/program.json",
+      "cordovaDependencies": {
+        "cordova-plugin-meteor-webapp": "2.0.0",
+        "cordova-plugin-statusbar": "2.4.3",
+        "cordova-plugin-splashscreen": "6.0.0"
+      }
+    },
+    {
+      "name": "server",
+      "arch": "os",
+      "path": "programs/server/boot.js"
+    }
+  ],
+  "meteorRelease": "METEOR@2.10.0",
+  "nodeVersion": "14.21.2",
+  "npmVersion": "6.14.17",
+  "gitCommitHash": "c2e83ec8b5d1d8c8259aa2da671b783f539fd40b"
+}

@@ -1,0 +1,106 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "bb3f96a8b2c43a480e987bfb0c7b731fd669e35c.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/__cordova/bb3f96a8b2c43a480e987bfb0c7b731fd669e35c.js?meteor_js_resource=true",
+      "replaceable": false,
+      "size": 1126724,
+      "hash": "bb3f96a8b2c43a480e987bfb0c7b731fd669e35c",
+      "sri": "47QWp0oi0DjI/LPMeSfpspN5WM5OwuawJ22csGA3g2jN6TlE02Giub3yuWwsW5mY4BB2HMMyD/4sRuNXtVds0A=="
+    },
+    {
+      "path": "bb3f96a8b2c43a480e987bfb0c7b731fd669e35c.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/__cordova/bb3f96a8b2c43a480e987bfb0c7b731fd669e35c.stats.json?meteor_js_resource=true",
+      "size": 31079,
+      "hash": "6a8c5ec31d6ad51e849fb33687cbd015765f1718",
+      "sri": "koqKOAbgf3tyunW9jakD+9CPMj4lLeBfd1czUs+9c+dmkUGBr3AoB0o6wDwSpS2lspDpQmyJcYnoFRm72eSrhA=="
+    },
+    {
+      "path": "9073da73442537a5407a94165d7aac02b6b364af.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/__cordova/9073da73442537a5407a94165d7aac02b6b364af.css?meteor_css_resource=true",
+      "size": 286,
+      "hash": "9073da73442537a5407a94165d7aac02b6b364af",
+      "sri": "AZg5zltgHVBnK254IWDzxJcRV6U1WmLOvYIy+oL0q8zeK1DtdBpLj6vJhBfxZp3+RHUEDZ86IsWHOEwNFvA54Q=="
+    },
+    {
+      "path": "packages/promise/promise.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/promise/promise.d.ts",
+      "size": 633,
+      "hash": "4aa461da7ad90c74a51ddfccc84b055fc0403119",
+      "sri": "6MVw86BmnkmTtXXlCxaH8k7xIUcMZK4O57Nnu82uI5MJT9Fbru7Yv71SuHx+giKUM9wkRs7WkpqPWjADS+U2qw=="
+    },
+    {
+      "path": "packages/promise/promise.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/promise/promise.d.ts",
+      "size": 633,
+      "hash": "4aa461da7ad90c74a51ddfccc84b055fc0403119",
+      "sri": "6MVw86BmnkmTtXXlCxaH8k7xIUcMZK4O57Nnu82uI5MJT9Fbru7Yv71SuHx+giKUM9wkRs7WkpqPWjADS+U2qw=="
+    },
+    {
+      "path": "packages/tracker/tracker.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/packages/tracker/tracker.d.ts",
+      "size": 5583,
+      "hash": "731aad7066180b9ecd9602dea64f33cd8a6db792",
+      "sri": "xcFbOOADEd+5I0GCVG6t316s252wDb+dLpbXNDBUBMvLLpM9nbCRrzcF/7vFSqKqaIfReio7ysBTMOwi9Q4BiQ=="
+    },
+    {
+      "path": "packages/tracker/tracker.d.ts",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/tracker/tracker.d.ts",
+      "size": 5583,
+      "hash": "731aad7066180b9ecd9602dea64f33cd8a6db792",
+      "sri": "xcFbOOADEd+5I0GCVG6t316s252wDb+dLpbXNDBUBMvLLpM9nbCRrzcF/7vFSqKqaIfReio7ysBTMOwi9Q4BiQ=="
+    },
+    {
+      "path": "app/scripts/mapkit.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/__cordova/scripts/mapkit.js",
+      "size": 36869,
+      "hash": "db0709867561f6f868378a09bae9b8116409ab2f",
+      "sri": null
+    },
+    {
+      "path": "app/scripts/mapkit.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/scripts/mapkit.js",
+      "size": 36869,
+      "hash": "db0709867561f6f868378a09bae9b8116409ab2f",
+      "sri": null
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "aa6e7746f0de73ab9a822ca2cafcbb958a99af55"
+    }
+  ],
+  "cordovaCompatibilityVersions": {
+    "android": "dcc58c9dd061e06606f4af3af255da6ae8b90f10",
+    "ios": "c87641e09e3d0634ba9d99edf7433c93e5b7819a"
+  }
+}
