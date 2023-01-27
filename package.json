@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "./bundle/main.js",
+  "node": "14.21.2",
   "scripts": {
     "start": "node ./bundle/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
